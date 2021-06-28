@@ -1,0 +1,3 @@
+cd C:\Users\PC\Desktop\Proyecto TT\IOD_EKF\IOD_EKF\src
+
+gcc Accel.c AccelHarmonic.c AccelPointMass.c arrays.c eccanom.c R_x.c G_AccelHarmonic.c IERS.c JPL_Eph_DE430.c Legendre.c position.c VarEqn.c Cheb3D.c timediff.c R_y.c R_z.c PrecMatrix.c AzElPa.c EqnEquinox.c NutAngles.c MeanObliquity.c Frac.c sign_.c gmst.c gast.c TimeUpdate.c PoleMatrix.c NutMatrix.c Mjday_TDB.c Mjday.c MeasUpdate.c LTC.c GHAMatrix.c ode.c main.c -o main
